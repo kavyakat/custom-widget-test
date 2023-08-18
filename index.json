@@ -12,14 +12,14 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-pyodide-matplotlib",
-      "url": "http://localhost:3000/pyodide/matplotlib/main.js",
+      "url": "https://raw.githubusercontent.com/kavyakat/custom-widget-test/main/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-sap-sample-pyodide-matplotlib-styling",
-      "url": "http://localhost:3000/pyodide/matplotlib/styling.js",
+      "url": "https://raw.githubusercontent.com/kavyakat/custom-widget-test/main/styling.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
