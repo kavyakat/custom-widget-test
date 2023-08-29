@@ -1,3 +1,4 @@
+console.log("test")
 var getScriptPromisify = (src) => {
   return new Promise(resolve => {
     $.getScript(src, resolve)
